@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka&family=Roboto:wght@400;700&display=swap');
+
+* {
+    margin: 0;
+    font-family: 'Roboto', Courier, monospace;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+#root {
+    height: 100%;
+}
